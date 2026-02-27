@@ -1,6 +1,6 @@
 {
   "name": "ESP Universal",
-  "banner": "https://i.imgur.com/banneresp.png",
+  "banner": "https://i.imgur.com/Wt7um2z.png",
   "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/seuuser/esp/main/esp.lua'))()",
   "description": "ESP para qualquer jogo Roblox",
   "author": "Luay",
